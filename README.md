@@ -24,7 +24,7 @@ One domain
 
 Response
 
-`json{ "Servers_changed": false, "Ssl_grade": "B", "Previous_ssl_grade": "B", "Logo": "https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico", "Title": "Facebook - Inicia sesión o regístrate", "Is_down": false, "Servers": [ { "Address": "157.240.11.35", "Ssl_grade": "B", "Country": "US", "Owner": "Facebook, Inc. (THEFA-3)" }, { "Address": "2a03:2880:f127:283:face:b00c:0:25de", "Ssl_grade": "B", "Country": "IE", "Owner": "" } ] }`
+```json{ "Servers_changed": false, "Ssl_grade": "B", "Previous_ssl_grade": "B", "Logo": "https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico", "Title": "Facebook - Inicia sesión o regístrate", "Is_down": false, "Servers": [ { "Address": "157.240.11.35", "Ssl_grade": "B", "Country": "US", "Owner": "Facebook, Inc. (THEFA-3)" }, { "Address": "2a03:2880:f127:283:face:b00c:0:25de", "Ssl_grade": "B", "Country": "IE", "Owner": "" } ] }```
 
 History domains
 
@@ -32,4 +32,4 @@ History domains
 
 Response
 
-`json{ "Item": [ "facebook.com" ] }`
+```json{ "Item": [ "facebook.com" ] }```
